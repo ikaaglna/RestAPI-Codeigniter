@@ -1,0 +1,26 @@
+[
+    {
+        "nama" : "Siska Angelina",
+        "NIM"  : 672020123,
+        "lulus" : true,
+        "hobi" : [ 
+            "coding", "membaca", "menonton"
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "Siska",
+            "pembimbing2" : "Ika"
+        }
+    },
+    {
+        "nama" : "Siski Angelini",
+        "NIM"  : 682020123,
+        "lulus" : true,
+        "hobi" : [ 
+            "coding", "membaca", "menonton"
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "Siska",
+            "pembimbing2" : "Ika"
+        }
+    }
+]
